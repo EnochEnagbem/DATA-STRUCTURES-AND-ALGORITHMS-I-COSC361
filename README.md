@@ -14,7 +14,7 @@ To run these programs you need to install a software program called Java SE Deve
 
 
 ##### RUN CODE
-If you want to run the algorithms in an IDE or Text Editor. You should
-copy the entire contents of any of the algorithm into a project in the IDE or Text Editor, and then run the Main.java in the folder.
+If you want to run program in an IDE or Text Editor. You should
+copy the entire contents of any of the program into a project in the IDE or Text Editor, and then run the Main.java in the folder.
 
 ____
