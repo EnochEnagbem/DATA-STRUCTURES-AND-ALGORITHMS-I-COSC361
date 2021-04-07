@@ -7,7 +7,7 @@ ____
  This program folder contain the following
  - `Main.java`
 
-     This is the starting point of execution for the program
+     This is the entry point of the program.
  - `QueueLinkedList.java`
 
      Contains some queue methods use in the program
