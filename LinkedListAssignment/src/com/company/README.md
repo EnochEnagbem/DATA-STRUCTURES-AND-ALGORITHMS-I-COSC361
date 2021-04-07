@@ -4,12 +4,15 @@ ___
 The singly linked list is a linear data structure in which each element of the list contains a pointer which points to the next element in the list. Each element in the singly linked list is called a node. Each node has two components: data and a pointer next which points to the next node in the list. The first node of the list is called as head, and the last node of the list is called a tail
 
 #### OVERVIEW
+This program is an implementation of the singly linked list data structure.
+
 This program folder contain the following
 - `Main.java`
-    This is the starting point of execution for the program
+
+    This is the entry point of the program.
 - `LinkedList.java`
 
-    Contains some linkedlist methods use in the program
+    Contains some linked list methods use in the program
 - `Node.java`
 
     Blueprint for creating nodes in the program
