@@ -7,7 +7,7 @@ Stack is a simple data structure that allows adding and removing elements in a p
 This program folder contain the following
 - `Main.java`
 
-    This is the starting point of execution for the program
+    This is the entry point of the program.
 - `Stack.java`
 
     Contains some stack methods use in the program
