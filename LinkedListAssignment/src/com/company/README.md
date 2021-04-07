@@ -6,7 +6,6 @@ The singly linked list is a linear data structure in which each element of the l
 #### OVERVIEW
 This program folder contain the following
 - `Main.java`
-
     This is the starting point of execution for the program
 - `LinkedList.java`
 
@@ -14,4 +13,8 @@ This program folder contain the following
 - `Node.java`
 
     Blueprint for creating nodes in the program
+
+##### RUN CODE
+    If you want to run program in an IDE or Text Editor. You should
+    copy the entire contents of any of the program into a project in the IDE or Text Editor, and then run the Main.java in the folder.
 ___
