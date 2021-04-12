@@ -13,6 +13,13 @@ This program folder contain the following
 - `LinkedList.java`
 
     Contains some linked list methods use in the program
+    These methods include:
+    - `push()`
+    - `append()`
+    - `deleteNode()`
+    - `insertAfter()` 
+
+
 - `Node.java`
 
     Blueprint for creating nodes in the program
