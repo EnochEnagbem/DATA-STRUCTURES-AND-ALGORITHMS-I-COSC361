@@ -16,6 +16,16 @@ ____
  - `QueueLinkedList.java`
 
      Contains some queue methods use in the program
+
+     These methods include:
+     - `enqueue()`
+     - `dequeue()`
+     - `printQueue()`
+     - `front()`
+     - `isEmpty()`
+     - `length()`
+
+
  - `Node.java`
 
      Blueprint for creating nodes in the program
