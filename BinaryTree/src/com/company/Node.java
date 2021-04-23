@@ -6,9 +6,9 @@ public class Node{
     int data;
 
     //Constructor
-    Node(int newData){
+    Node(int newValue){
         left=null;
         right=null;
-        data=newData;
+        data=newValue;
     }
 }
