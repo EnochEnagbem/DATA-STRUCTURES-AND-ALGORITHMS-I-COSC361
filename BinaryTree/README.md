@@ -13,6 +13,16 @@ This program folder contain the following
 - `BinaryTree.java`
 
     Contains some Binary Tree methods use in the program
+
+    These methods include:
+
+    - `insert()`
+    - `size()`
+    - `printTree()`
+    - `Depth()`
+    - `Root()`
+
+
 - `Node.java`
 
     Blueprint for creating nodes in the program
